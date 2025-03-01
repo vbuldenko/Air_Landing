@@ -17,12 +17,12 @@ This project is an example landing page for a creative agency.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vbuldenko/air_landing.git
+   git clone https://github.com/vbuldenko/Air_Landing.git
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd air_landing
+   cd Air_Landing
    ```
 
 3. Install the dependencies:
